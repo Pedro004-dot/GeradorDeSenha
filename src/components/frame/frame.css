@@ -1,0 +1,16 @@
+.container{
+    flex: 1;
+    /* background-color: rgba(24,24,24, 0.6); */
+    background-color: snow;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    background-color: aliceblue;
+    width: 85%;
+    padding-top: 24;
+    padding-bottom: 24;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8;
+}
