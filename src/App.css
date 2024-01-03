@@ -7,7 +7,9 @@
 button{
   margin: 24px;
 }
-
+.checkbox{
+  flex-direction: column;
+}
 .senha{
   background-color: red;
   padding: 10px;
@@ -15,4 +17,8 @@ button{
   align-items: center;
   justify-content: center;
   color: black;
+}
+.inputs  {
+  display: flex;
+  flex-direction: column;
 }
